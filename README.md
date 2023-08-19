@@ -3,6 +3,12 @@ This is a Chrome extension which I made using React and Typescript.
 User can install this hook and they can fetch their city and country in the browser with one click.
 
 
+
+https://github.com/AbhiSharma8827/location-extension/assets/96690592/538e7d25-9578-4c1b-afcd-5998dfb22bfe
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
