@@ -1,0 +1,14 @@
+{
+	"name": "Take-home",
+	"description": "Displays user country and city",
+	"version": "1.0",
+	"manifest_version": 3,
+	"action": {
+		"default_title": "Take-home",
+		"default_popup": "index.html",
+		"default_icon": {
+			"16": "location_42.png",
+			"128": "location_42.png"
+		}
+	}
+}
